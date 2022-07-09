@@ -18,7 +18,7 @@ plugins:
 theme:
   name: material
   favicon: assets/images/favicon.png
-  # logo: assets/images/mkdocs_zune_logo.png
+  # logo: assets/images/<ADD LOGO>.png
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -41,3 +41,4 @@ theme:
 
 nav:
   - Overview: 'index.md'
+  - Contributions: '05_contributions.md'
