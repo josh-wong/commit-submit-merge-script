@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: commit-submit-merge-script
-  title: Script to commit changes, then submit and merge a pull request
+  title: commit-submit-merge-script
   description: This batch script is for committing changes and then submitting and merging a pull request.
   tags:
     - automation
