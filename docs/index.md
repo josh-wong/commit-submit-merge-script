@@ -1,4 +1,4 @@
-# Script to commit changes, then submit and merge a pull request
+# 🚧Script to commit changes, then submit and merge a pull request🚧
 
 This batch script is for committing changes and then submitting and merging a pull request.
 
