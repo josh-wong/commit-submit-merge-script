@@ -3,8 +3,8 @@ site_url: https://josh-wong.github.io/commit-submit-merge-script/
 
 # Add repo details in the top right-hand corner
 repo_name: josh-wong/commit-submit-merge-script
-repo_url: https://github.com/josh-wong/commit-submit-merge-script
-edit_uri: blob/main/
+repo_url: https://github.com/josh-wong/commit-submit-merge-script/
+edit_uri: blob/main/docs
 
 plugins:
   - search
