@@ -12,8 +12,8 @@ Save the file with the extension ".bat" so that the file changes from being a te
 
 In the script:
 
-- Replace **\<INSERT FULL FOLDER PATH\>** as specified in the comment in the script. Make sure you use back slashes (\) between the folder names in the path.
-- Replace **\<ADD COMMIT MESSAGE\>** as specified in the comment in the script.
+- Replace **<INSERT FULL FOLDER PATH>** as specified in the comment in the script. Make sure you use back slashes (\) between the folder names in the path.
+- Replace **<ADD COMMIT MESSAGE>** as specified in the comment in the script.
 
 Then, save your changes.
 
