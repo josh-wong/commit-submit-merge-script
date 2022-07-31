@@ -5,7 +5,6 @@ Before you set up the commit-submit-merge script, make sure you have the prerequ
 ## Prerequisites
 
 - Windows 10 or later
-- Python 3.10 or later
 - GitHub or GitLab account
 
 > **Note**
