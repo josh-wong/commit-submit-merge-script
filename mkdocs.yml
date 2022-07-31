@@ -67,6 +67,10 @@ extra:
 
 nav:
   - Overview: 'index.md'
+  - Getting started: '01_getting_started.md'
+  - Configuring the script: '02_configuring_script.md'
+  - Conclusion: '03_conclusion.md'
+  - References: '04_references.md'
   - Contributions: '05_contributions.md'
   - '': ''
   - '': ''
