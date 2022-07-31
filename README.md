@@ -1,9 +1,9 @@
-# Script to commit changes, then submit and merge a pull request
+# Commit-submit-merge script
 
-This batch script is for committing changes and then submitting and merging a pull request.
+The commit-submit-merge script helps you automate the commit, submit, and merge process for pull requests in GitHub.
 
 > **Note**
 > 
 > This script currently only supports submitting and merging a pull request to the main branch.
 
-To automate this script, you can add a task in Task Scheduler in Windows. For details on using Task Scheduler, please see [Task Scheduler for developers](https://docs.microsoft.com/en-us/windows/win32/taskschd/task-scheduler-start-page).
+This script can be particularly helpful for when you want to automatically commit changes regularly with a standard, descriptive summary. After that, the script will create a pull request to the main branch and then merge that pull request.
