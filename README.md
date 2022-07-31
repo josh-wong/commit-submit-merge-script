@@ -1,4 +1,4 @@
-# Commit-submit-merge script
+# Commit-submit-merge script🤖
 
 By using the commit-submit-merge script and configuring the script as a task in Task Scheduler in Windows, you can automate the commit, submit, and merge process for pull requests in GitHub.
 
