@@ -1,6 +1,6 @@
 # Getting started
 
-Before you set up the **ommit-submit-merge** script, make sure you have the prerequisites.
+Before you set up the **commit-submit-merge** script, make sure you have the prerequisites.
 
 ## Prerequisites
 
