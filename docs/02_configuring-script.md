@@ -19,6 +19,6 @@ Then, save your changes.
 
 ## Automate this script
 
-To automate the **commit-submit-merge** script, you can add a task for each script in Task Scheduler in Windows. Unfortunately, because multiple environment setups exist depending on how you use Windows, this tutorial does not describe setting up tasks in Task Scheduler.
+To automate the **commit-submit-merge** script, you can add a task for the script in Task Scheduler in Windows. Unfortunately, because multiple environment setups exist depending on how you use Windows, this tutorial does not describe setting up tasks in Task Scheduler.
 
 For details on using Task Scheduler, please see [Task Scheduler for developers](https://docs.microsoft.com/en-us/windows/win32/taskschd/task-scheduler-start-page).
