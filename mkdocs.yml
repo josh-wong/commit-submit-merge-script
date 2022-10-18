@@ -58,9 +58,14 @@ markdown_extensions:
 
 theme:
   name: material
+  # Extend the theme
+  custom_dir: overrides
+  # Add favicon to browser tab
   favicon: assets/images/favicon.png
+  # Add logo to docs pages
   logo: assets/images/mkdocs_robot.png
   icon:
+    # Add icon to show repository information and link
     repo: fontawesome/brands/github
     # Add icons for Material for MkDocs admonitions
     admonition:
@@ -99,6 +104,8 @@ theme:
       primary: grey
       accent: blue
   features:
+    # Mark announcement as read
+    - announce.dismiss
     # Add custom search functions
     - search.suggest
     - search.highlight
