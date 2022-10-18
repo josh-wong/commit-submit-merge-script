@@ -101,8 +101,8 @@ theme:
     - search.share
     - search.suggest
     # Add custom navigation functions
-    #- navigation.expand
-    - navigation.indexes
+    - navigation.expand
+    #- navigation.indexes
     - navigation.instant
     #- navigation.sections
     #- navigation.tabs
