@@ -1,4 +1,4 @@
-site_name: Script to commit changes, then submit and merge a pull request
+site_name: commit-submit-merge script
 site_url: https://josh-wong.github.io/commit-submit-merge-script/
 site_description: Automate the commit, submit, and merge process for pull requests in GitHub.
 
